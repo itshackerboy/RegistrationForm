@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.div input{
+  width: 30%;
+  height: 20px ;
+  padding-bottom: 5px;
+}
+
+.button {
+  width: 100%;
+  border-top: 10px;
+}
